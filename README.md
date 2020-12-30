@@ -19,4 +19,4 @@ Download this directory to your computer and make sure you have Python 3.5 or hi
 7) Run the bot by entering `python main.py` in the same folder, and the bot should be online. You can keep it on as long as it is running on your computer and connected to wifi.
 
 I recommend either hosting on Heroku or on your local machine.
-If you have questions, add me on discord. I can help if I'm not busy, just friend `achidchi#0271`.
+If you have questions, add me on discord. I can help if I'm not busy, just friend `dayvid#0271`.
